@@ -1,0 +1,154 @@
+.nav-link {
+    font-weight: 700;
+}
+
+#topsec {
+    background: url('./../imgs/hero4.png');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#body{
+    font-family: 'League Spartan', sans-serif;
+    /* background-color: #0E8178; */
+}
+
+/* #badge{
+    background-color: none;
+    background: url('./../imgs/button.png');
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    justify-content: center;
+    text-align: center;
+   
+} */
+#brown {
+    color: #2B1E17;
+}
+
+.btn.btn-primary {
+    background-color: #0E8178;
+    border-radius: none;
+    border: none;
+    font-size: 1.5rem;
+}
+
+#green {
+    color: #0E8178;
+    font-weight: 600;
+    font-size: 68px;
+}
+
+#black {
+    color: #423837;
+    font-weight: 600;
+    font-size: 68px;
+}
+
+.lead {
+    color: #A0A3AE;
+    font-weight: 300;
+}
+
+#jumbo {
+    padding: 234px 0px;
+}
+
+#sec2 {
+    padding-top: 36px;
+}
+
+#sec2head {
+    font-weight: 500;
+}
+
+#sec2p {
+    font-weight: 400;
+}
+
+.card-img-top {
+    padding: 10px;
+    border-radius: 36px;
+}
+.card.my-2{
+    border-radius: 36px;
+}
+
+#price{
+    float: left;
+    font-size: 32px;
+    color: #0E8178;
+}
+#bucket{
+    float: right;
+    margin-top: 4px;
+}
+#banner1{
+    background: url(./../imgs/banner/b1.jpg);
+    margin-top: 36px;
+    justify-content: center;
+    text-align: center;
+}
+#banner1btn{
+    border: none;
+    border-radius: 0;
+    font-weight: 700;
+    font-size: 20px;
+}
+.materialbanner1{
+    padding: 78px 0px;
+}
+#boxing{
+    margin-top: 36px;
+    justify-content: space-evenly;
+}
+#box1{
+    background: url(./../imgs/banner/b17.jpg);
+    background-size: cover;
+    background-position: bottom;
+    
+}
+#box2{
+    background: url(./../imgs/banner/b10.jpg);
+    background-size: cover;
+}
+.beginner{
+    font-size: 20px;
+    color: white;
+}
+.mainer{
+    font-size: 44px;
+    font-weight: 600;
+    color: white;
+}
+.para{
+    color: white;
+    font-weight: 300;
+}
+#btner{
+    border-radius: 0;
+    /* border: none; */
+}
+#btner2{
+    background-color: #0E8178;
+    color: white;
+    border-radius: 0;
+}
+#materialbox{
+    padding: 85px 21px;
+}
+
+/* #paragraph1 p{
+    color: #0E8178;
+} */
+/* #bucket:hover{
+    fill: #fb8500;
+} */
+/* #0E8178
+#2B1E17
+#423837
+#A0A3AE 
+#041D44*/
